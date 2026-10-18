@@ -3,7 +3,7 @@
 > Independent AI Workflow Designer
 > Decision boundaries, state transitions & failure interception.
 
-J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interception des défaillances invisibles de l'automatisation. Ma démarche décèle les déplacements silencieux de responsabilité humaine induits par les outils autonomes, pose des bornes d'arrêt explicites et neutralise les fausses certitudes produites par les modèles probabilistes.
+J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interception des défaillances invisibles de l'automatisation. Ma démarche décèle les déplacements silencieux de responsabilité humaine induits par les outils autonomes, pose des bornes d'arrêt explicites et examine les validations susceptibles de produire de fausses certitudes.
 
 ---
 
@@ -11,10 +11,16 @@ J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interc
 
 | Défaillance observée | Mécanisme d'interception | Formalisation proposée |
 | --- | --- | --- |
+| Transfert silencieux de responsabilité vers un opérateur | Cartographie des arbitrages et bornes de charge cognitive | Grille d'exposition décisionnelle et matrice d'imputabilité |
 | Agent persistant dans une impasse logique | Bornes de récursion et conditions d'arrêt explicites | Spécification de transition d'états et protocole d'arrêt |
 | Perte de traçabilité entre outils hétérogènes | Identifiants immuables et passage de témoin strict | Schéma de provenance et règles de passage de témoin |
 | Validation aveugle de sorties plausibles | Tests contradictoires et révision humaine ciblée | Matrice de détection des faux positifs |
 | Refactorisation destructive non sollicitée | Verrous de commits et périmètres d'édition étanches | Diff minimal et journal d'impact à quatre échelles |
+
+Toute intervention se conclut par l'un des trois états documentés suivants :
+1. Décision arbitrable étayée par des preuves matérielles directes.
+2. Vérification ciblée requise sur un point d'incertitude isolé.
+3. Constat motivé d'impossibilité de conclure sans données complémentaires.
 
 ---
 
@@ -23,14 +29,14 @@ J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interc
 L'échantillon documentaire ci-dessous expose la démarche d'investigation socio-technique appliquée aux systèmes complexes et aux transitions logicielles. Cette documentation permet d'évaluer la rigueur d'analyse sans livrer de protocoles d'exploitation automatisables.
 
 - Extrait libre du carnet de méthode via [Consultation du premier chapitre](https://denenodjimbondjim.lovable.app/boutique)
-- Soumission d'une question ou d'un contexte à qualifier via le [Sas d'accueil direct](https://denenodjimbondjim.lovable.app/apporter-une-situation)
+- Soumission d'une question ou d'une situation anonymisée via le [Sas d'accueil direct](https://denenodjimbondjim.lovable.app/apporter-une-situation)
 
 ---
 
 ## Protocole d'Engagement et Écologie du Travail
 
 Pour garantir l'efficacité de l'intervention et préserver la qualité des arbitrages, chaque mission applique les conditions suivantes :
-1. Sas d'entrée obligatoire avec transmission d'une situation professionnelle par écrit.
+1. Sas d'entrée obligatoire avec transmission d'une situation professionnelle par écrit (faits observables sans données sensibles requises).
 2. Tout échange initial ou question s'effectue exclusivement par le formulaire d'accueil de situation, sans sollicitation directe par courriel.
 3. Collaboration asynchrone par défaut, rythmée par des notes d'analyse et des revues documentées.
 4. Échanges relatifs à une mission conduits directement avec la personne responsable de la décision arbitrée.
