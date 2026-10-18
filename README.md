@@ -3,16 +3,16 @@
 > Independent AI Workflow Designer
 > Decision boundaries, state transitions & failure interception.
 
-J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interception des défaillances invisibles de l'automatisation. Ma démarche articule l'analyse des situations de travail, la définition de bornes d'arrêt explicites et la détection des fausses certitudes produites par les modèles probabilistes.
+J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interception des défaillances invisibles de l'automatisation. Ma démarche décèle les déplacements silencieux de responsabilité humaine induits par les outils autonomes, pose des bornes d'arrêt explicites et neutralise les fausses certitudes produites par les modèles probabilistes.
 
 ---
 
 ## Domaines d'Intervention et Démarche de Preuve
 
-| Défaillance observée | Mécanisme d'interception | Artefact livré |
+| Défaillance observée | Mécanisme d'interception | Formalisation proposée |
 | --- | --- | --- |
-| Agent persistant dans une impasse logique | Bornes de récursion et conditions d'arrêt explicites | Machine à états finis et protocole de rupture |
-| Perte de traçabilité entre outils hétérogènes | Identifiants immuables et passage de témoin strict | Schéma de provenance et passerelle vérifiée |
+| Agent persistant dans une impasse logique | Bornes de récursion et conditions d'arrêt explicites | Spécification de transition d'états et protocole d'arrêt |
+| Perte de traçabilité entre outils hétérogènes | Identifiants immuables et passage de témoin strict | Schéma de provenance et règles de passage de témoin |
 | Validation aveugle de sorties plausibles | Tests contradictoires et révision humaine ciblée | Matrice de détection des faux positifs |
 | Refactorisation destructive non sollicitée | Verrous de commits et périmètres d'édition étanches | Diff minimal et journal d'impact à quatre échelles |
 
@@ -34,8 +34,8 @@ Pour garantir l'efficacité de l'intervention et préserver la qualité des arbi
 1. Sas d'entrée obligatoire avec transmission d'une situation professionnelle par écrit.
 2. Tout échange initial ou question s'effectue exclusivement par le formulaire d'accueil de situation, sans sollicitation directe par courriel.
 3. Collaboration asynchrone par défaut, rythmée par des notes d'analyse et des revues documentées.
-4. Échange direct réservé au commanditaire technique décisionnaire (Direction Technique ou Fondateur).
+4. Échanges relatifs à une mission conduits directement avec la personne responsable de la décision arbitrée.
 5. Interventions forfaitaires délimitées dans le temps, excluant toute assistance en régie indéterminée.
 
-Dépôt direct d'une situation ou transmission d'une demande d'échange sur la page dédiée :
-[Apporter une situation](https://denenodjimbondjim.lovable.app/apporter-une-situation)
+Accès au formulaire d'accueil et dépôt d'une situation :
+- [Apporter une situation](https://denenodjimbondjim.lovable.app/apporter-une-situation)
