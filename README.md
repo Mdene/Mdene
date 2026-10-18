@@ -23,7 +23,6 @@ J'interviens sur la gouvernance des flux d'intelligence artificielle et l'interc
 L'échantillon documentaire ci-dessous expose la démarche d'investigation socio-technique appliquée aux systèmes complexes et aux transitions logicielles. Cette documentation permet d'évaluer la rigueur d'analyse sans livrer de protocoles d'exploitation automatisables.
 
 - Extrait libre du carnet de méthode via [Consultation du premier chapitre](https://denenodjimbondjim.lovable.app/boutique)
-- Dépôt public et architecture de travail sur [Profil et dépôts GitHub Mdene](https://github.com/Mdene)
 - Soumission d'une question ou d'un contexte à qualifier via le [Sas d'accueil direct](https://denenodjimbondjim.lovable.app/apporter-une-situation)
 
 ---
